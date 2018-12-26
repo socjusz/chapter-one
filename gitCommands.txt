@@ -1,3 +1,13 @@
-this is my first text file
+Pełny kurs Git i GitHub - http://bit.ly/2GoS7NW
+Podstawowa lista poleceń Git - http://www.codebind.com/linux-tutoria...
 
-another text
+Konfiguruj Git:
+git config --global user.name "Twoje imię"
+git config --global user.email "youremail@domain.com"
+
+inne polecenia
+git clone (url)
+git add (nazwy plików)
+git commit -m "(zatwierdzony komunikat)
+git push -u origin master
+git remote add origin master (url)
