@@ -1,0 +1,10 @@
+API testing
+
+API Testing is entirely different from GUI Testing and mainly concentrates on the business logic layer of the software architecture. This testing won't concentrate on the look and feel of an application.
+
+Instead of using standard user inputs(keyboard) and outputs, in API Testing, you use software to send calls to the API, get output, and note down the system's response.
+
+API Testing requires an application to interact with API. In order to test an API, you will need to
+
+Use Testing Tool to drive the API
+Write your own code to test the API
