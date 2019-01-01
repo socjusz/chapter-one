@@ -1,0 +1,4 @@
+selenium webdriver - an API used to send command directly to the browser;
+selenium webdriver is marged to form Selenium 2;
+
+
