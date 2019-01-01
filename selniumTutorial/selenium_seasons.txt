@@ -1,4 +1,5 @@
 selenium webdriver - an API used to send command directly to the browser;
 selenium webdriver is marged to form Selenium 2;
-
+the current version of selenum is 3.141.59;
+https://www.seleniumhq.org/about/platforms.jsp;
 
