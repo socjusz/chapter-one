@@ -3,3 +3,11 @@ selenium webdriver is marged to form Selenium 2;
 the current version of selenum is 3.141.59;
 https://www.seleniumhq.org/about/platforms.jsp;
 
+The different locator techniqes are:
+- Identifier
+- Id
+- Name
+- Link
+- Class name
+- XPath
+- CSS
