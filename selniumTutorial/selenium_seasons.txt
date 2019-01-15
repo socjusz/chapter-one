@@ -11,3 +11,5 @@ The different locator techniqes are:
 - Class name
 - XPath
 - CSS
+
+
