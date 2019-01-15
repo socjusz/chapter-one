@@ -1,0 +1,3 @@
+Idea:
+
+To create with selenium google translator, with Headless Browser. HtmlUnit
