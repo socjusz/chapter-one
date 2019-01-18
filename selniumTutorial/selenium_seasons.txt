@@ -15,3 +15,11 @@ The different locator techniqes are:
 ##
 selenum s01e011
 .jar file
+
+Aktualna rekrutacja!🔥
+
+🔹Stanowisko: Senior Automation Tester
+🔹Firma: ProData Consult Group
+🔹Gdzie: Warszawa
+🔹Wynagrodzenie: do 125 PLN netto/godz. (B2B)
+🔹Technologie: REST / jMeter / SeleniumWebDriver / SoapUI / Java / Agile / Scrum (team member)
