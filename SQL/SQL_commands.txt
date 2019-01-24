@@ -20,13 +20,11 @@ SELECT *
 FROM Employee
 WHERE employee_id BETWEEN 2004 AND 2008
 
-
 5/ return an employee name, highest salary and the employee's ' department name
 
 SELECT e.employee_name, e.salary, d.department_name
 FROM Employee e INNER JOIN Department d ON (e.department_id=d.department_id)
 WHERE salary IN (SELECT Max(salary) FROM Employee)
-
 
 6/ return highest salary, employee_name, department_name for each department
 
