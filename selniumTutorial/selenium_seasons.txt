@@ -23,3 +23,22 @@ Aktualna rekrutacja!🔥
 🔹Gdzie: Warszawa
 🔹Wynagrodzenie: do 125 PLN netto/godz. (B2B)
 🔹Technologie: REST / jMeter / SeleniumWebDriver / SoapUI / Java / Agile / Scrum (team member)
+
+
+Capgemini:
+SOFTWARE DEVELOPER IN TEST (Z PODSTAWOWĄ ZNAJOMOŚCIĄ JĘZYKA NIEMIECKIEGO)
+Nr ref.: SSC/05CB/Wro
+Opis stanowiska: 
+Do Twoich obowiązków na stanowisku Software Developer in Test należeć będą:
+
+automatyzacja testów UI i API (REST/SOAP);
+tworzenie mocków usług sieciowych;
+analiza obszarów testowych, zbieranie wymagań oraz budowa zestawów przypadków testowych;
+wykonywanie testów, analiza i raportowanie wyników;
+konfiguracja zestawów testów automatycznych w środowisku continuous integration oraz zbieranie wyników.
+Profil idealnego kandydata: 
+co najmniej 2-letnie doświadczenie w automatyzacji testów (Java, JavaScript, .Net);
+doświadczenie w automatyzacji backend (SOAP/REST API);
+doświadczenie w automatyzacji testów UI (preferowane Selenium WebDriver);
+znajomość języków wymiany danych (XML, JSON, CSV);
+przynajmniej podstawowa znajomość języka niemieckiego (Capgemini będzie wspierać dalsze kształcenie w zakresie języka niemieckiego w ramach intensywnego kursu języka niemieckiego, bez wpływu na finansowe warunki zatrudnienia).
