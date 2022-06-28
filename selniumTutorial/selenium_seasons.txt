@@ -23,6 +23,9 @@ Aktualna rekrutacja!🔥
 🔹Gdzie: Warszawa
 🔹Wynagrodzenie: do 125 PLN netto/godz. (B2B)
 🔹Technologie: REST / jMeter / SeleniumWebDriver / SoapUI / Java / Agile / Scrum (team member)
+EDIT:
+🔹Technologie: REST / Postam / jMeter / SeleniumWebDriver / Cypress / Java / Agile / Scrum (team member)
+
 
 
 Capgemini:
